@@ -14,4 +14,10 @@ public class UserDaoImpl implements UserDao {
 		return 0;
 	}
 
+	@Override
+	public int update() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }

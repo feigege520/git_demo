@@ -11,4 +11,10 @@ public interface UserDao {
 	 * @return
 	 */
 	public int add();
+	
+	
+	/**
+	 * ĞŞ¸Ä
+	 */
+	public int update();
 }
