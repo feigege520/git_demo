@@ -17,4 +17,9 @@ public interface UserDao {
 	 * ÐÞ¸Ä
 	 */
 	public int update();
+	
+	/**
+	 * É¾³ý
+	 */
+	public int delete();
 }

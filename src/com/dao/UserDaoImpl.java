@@ -20,4 +20,10 @@ public class UserDaoImpl implements UserDao {
 		return 0;
 	}
 
+	@Override
+	public int delete() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
