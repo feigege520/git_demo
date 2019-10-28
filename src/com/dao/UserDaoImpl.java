@@ -19,8 +19,17 @@ public class UserDaoImpl implements UserDao {
 
 	@Override
 	public int add() {
-		// TODO Auto-generated method stub
-		return 0;
+		//连接对象
+		Connection conn = null;
+		//执行对象
+		PreparedStatement pstmt = null;
+		int num = 0;
+		try {
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return num;
 	}
 
 	@Override
